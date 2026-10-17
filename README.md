@@ -1,4 +1,4 @@
-![header: the image edition](https://borshik.is-a.dev/images/header.png)
+![header: the image edition. (Borshik, Developer/GFX Artist](https://borshik.is-a.dev/images/header.png)
 
 > My projects are useful. And they are questionable.
 
